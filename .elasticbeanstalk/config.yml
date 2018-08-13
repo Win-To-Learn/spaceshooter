@@ -1,0 +1,10 @@
+branch-defaults:
+  default:
+    environment: blocklyExportTest-env
+global:
+  application_name: blockly_export_test
+  default_ec2_keyname: null
+  default_platform: Node.js
+  default_region: us-east-1
+  profile: eb-cli
+  sc: null
